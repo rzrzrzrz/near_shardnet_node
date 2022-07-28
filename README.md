@@ -51,8 +51,14 @@
   CPU: 4-Core CPU with AVX support
   RAM: 8 GB DDR4
   Storage: 500GD SSD
-  
-* Let's choose Contabo f.e. https://contabo.com/  It will cost you around $11.39/month if you choose EU location using UBUNTU 20.04.
+  - Amazon Web Services
+  - Google Cloud Platform
+  - Microsoft Azure
+  - IBM Cloud
+  - DigitalOcean
+  - Hetzner
+    
+* Let's choose Contabo https://contabo.com/  It will cost you around $11.39/month if you choose EU location using UBUNTU 20.04.
 
 <p>
   <img width="600" src="https://user-images.githubusercontent.com/104324209/181313337-08c0a83b-7e30-477a-8cda-993278c7d676.png">
